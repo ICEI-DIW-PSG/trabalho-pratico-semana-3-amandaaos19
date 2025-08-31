@@ -10,17 +10,16 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Amanda Oliveira da Silva
+- Matricula: 00904102
+- Proposta de projeto escolhida: 1. Pessoas e produções
+- Breve descrição sobre seu projeto: Site onde são hospedados livros de autores conhecidos e desconhecidos onde o usuário pode acessar e encontrar uma leitura interessante para se iniciar
 
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
-
+![wireframe](public/EsbocoSite.jpg)
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![printsite](public/PontoLiterario.jpg)
