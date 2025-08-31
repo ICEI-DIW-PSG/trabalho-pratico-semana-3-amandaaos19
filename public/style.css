@@ -1,3 +1,37 @@
+h1, h3, h2, ul, .subtitulo{
+    color: rgb(113, 78, 47);
+}
+header, footer{
+    text-align: center;
+    font-size: x-large;
+    background-color: rgb(204, 195, 187);
+    border-radius: 10px
+}
+.fantasia, .infantil, .romance, .suspense, .terror{
+    margin: 10px;
+    float: right;
+    width: 85%;
+    font-size: large;
+    background-color: rgba(204, 195, 187, 0.741);
+    border-radius: 10px
+}
+nav{
+    width: 8%;
+    position: fixed;
+    z-index: 1;
+    left: 0px;
+    overflow: auto;
+    font-size: x-large;
+    background-color: rgb(204, 195, 187);
+    border-radius: 10px
+}
 body {
-    background-color: aquamarine;
+    background-image: url(./biblioteca.jpg);
+}
+footer{
+    float: inline-end;
+    text-align: center;
+    font-size: medium;
+    background-color: rgb(204, 195, 187);
+    border-radius: 10px 
 }
